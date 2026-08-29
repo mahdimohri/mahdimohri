@@ -1,9 +1,20 @@
-- 👋 Hi, I’m @mahdimohri
-- 👀 I’m interested in programming, hardware design, embedded systems, and IoT development.
-- 🌱 I’m currently learning advanced microcontroller programming and PCB design.
-- 💞️ I’m looking to collaborate on open-source hardware projects, low-level programming, and innovative IoT solutions.
-- 📫 How to reach me: Feel free to connect with me via GitHub or email me at Hamed.Mohri@gmail.com or mahdimohri.ir .
-<!---
-mahdimohri/mahdimohri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👋 Hi, I'm Mahdi Mohri
+
+🔧 **Embedded Systems & Hardware Engineer**
+
+I design and build at the intersection of hardware and software —
+from schematics and PCB layout to low-level firmware on bare-metal microcontrollers.
+
+- 🔍 **What I do:** Embedded development (STM32 / ARM Cortex-M), power electronics,
+  motor drive & inverter control, and industrial electronics repair & diagnostics.
+- ⚡ **Currently exploring:** BLDC motor control, PWM/ADC pipelines, sensorless
+  zero-cross detection, and gate-driver design (IR2103, IGBT/MOSFET stages).
+- 🛠️ **Also into:** PCB design with solder-paste stencils, prototyping, and
+  bringing industrial hardware back to life.
+- 🌱 **Always learning:** Advanced microcontroller architectures, IoT protocols,
+  and robust firmware design practices.
+
+📌 *I believe good engineering is measured at the boundary between
+clean hardware and reliable code.*
+
+📫 **Reach me:** [Hamed.Mohri@gmail.com](mailto:Hamed.Mohri@gmail.com) · [mahdimohri.ir](https://mahdimohri.ir)
